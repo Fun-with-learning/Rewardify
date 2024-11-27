@@ -5,7 +5,7 @@ import { LiaMoneyBillWaveSolid } from "react-icons/lia";
 const Quickaction = () => {
     
   return (
-    <div className=" w-[340px] md:w-[380px]   bg-white p-6 rounded-lg shadow-lg">
+    <div className=" md:w-[530px]   bg-white p-6 rounded-lg shadow-lg">
       {/* ....................................Title.................................................. */}
       <h2 className="text-lg  font-bold mb-4">Quick Actions</h2>
       <div className="flex justify-between items-center">

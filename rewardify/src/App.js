@@ -1,13 +1,13 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import LoginLanding from './Pages/Login/LoginLanding';
+import LoginLanding from './Pages/Login/LandingPage';
 import Login from './Pages/Login/Login';
 
 import StoreLanding from './Pages/Login/StoreLanding';
 import SelectStore from './Pages/Login/SelectStore';
 
 import VerifyOtp from './Pages/Login/VerifyOtp';
-import MasterDashboard from './Pages/Dashboard/MasterDashboard';
+import MasterDashboard from './Pages/Dashboard/UserDashboard';
 
 
 

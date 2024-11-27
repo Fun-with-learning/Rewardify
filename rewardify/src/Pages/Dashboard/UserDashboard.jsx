@@ -1,7 +1,7 @@
 import  { useState } from "react";
-import MainContent from "./MainContent";
-import Sidebar from "../../Componenets/Sidebar"
-import Navbar from '../../Componenets/Navbar'
+import MainContent from "./DashboardContent";
+import Sidebar from "../../Componenets/SideView"
+import Navbar from '../../Componenets/Header'
 
 
 const MasterDashboard = () => {

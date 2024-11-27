@@ -26,7 +26,7 @@ const MyOrder = () => {
   ];
 
   return (
-    <div className="p-10 w-full max-w-md mx-auto bg-white shadow-md rounded-md">
+    <div className="p-10 md:max-w-[90%] bg-white shadow-md rounded-md">
       <div className="flex justify-between">
         <h1 className="text-xl font-bold">My Orders</h1>
         <IoMdRefresh className="text-xl" />

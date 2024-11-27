@@ -102,7 +102,7 @@ const Transaction = () => {
   ];
 
   return (
-    <div className="mt-5 w-[340px] md:w-[380px]">
+    <div className="mt-5  md:w-[530px]">
       <div className="bg-white rounded-md p-5">
         <div className="flex justify-between">
           <h1 className="text-xl font-bold">Recent Transaction</h1>
